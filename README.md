@@ -44,20 +44,6 @@ Based on the analysis, the report suggests several strategies to improve perform
 - **Adjust schedules** to better match customer travel patterns.  
 - Use occupancy analysis as a basis for **revenue impact simulations** (e.g., effect of a 10% occupancy increase).
 
-## Files in This Repository
-
-- `Airline-Analysis-Report.docx`: Detailed report containing business context, visualizations, tables, and findings.[1]
-- (Optional) `notebooks/` or `scripts/`: Add your Jupyter notebooks or scripts here if you implement the analysis in code.
-- `README.md`: Project overview, objectives, insights, and usage information.
-
-## How to Use This Project
-
-- Open `Airline-Analysis-Report.docx` to read the full business and analytical report.[1]
-- Use the report as:
-  - A portfolio project to showcase data analysis, visualization, and business insight skills.
-  - A reference for building dashboards on airline KPIs like bookings, revenue, and occupancy.
-  - A base for implementing the same analysis in Python, SQL, or BI tools.
-
 ## Future Improvements
 
 Potential extensions to this project include:[1]
