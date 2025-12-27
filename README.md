@@ -1,7 +1,3 @@
-Airline Analysis Report README for GitHub is below in Markdown format. You can save this as `README.md` in your repo and adjust project/repo names if needed.[1]
-
-***
-
 # Airline Ticket Booking and Revenue Analysis
 
 This repository contains an **Airline Ticket Booking and Revenue Analysis** project focused on understanding booking trends, aircraft occupancy, and pricing strategies to improve airline profitability. The analysis is documented in the `Airline-Analysis-Report.docx` file.[1]
